@@ -1,0 +1,186 @@
+"id","name","rollno","score","created_at","updated_at"
+"500","Prakash Pokharel ","500","58",NULL,NULL
+"758","Harish Karki","541","70",NULL,NULL
+"759","Arati Pant","582","68",NULL,NULL
+"760","Maya Bhatt","620","92",NULL,NULL
+"761","Manisha Dhami","581","56",NULL,NULL
+"762","Kishor Prashad Bhatt","593","88",NULL,NULL
+"763","Rohit Singh Dhami","535","54",NULL,NULL
+"764","Birendra Singh Dhami","615","58",NULL,NULL
+"765","Rukum Singh Thagunna","576","70",NULL,NULL
+"766","Rupesh Thagunna","589","42",NULL,NULL
+"767","Mahendra Singh Kottari","619","88",NULL,NULL
+"768","Suresh Singh Sitori","618","94",NULL,NULL
+"769","Dhana Badu","49","42",NULL,NULL
+"770","Bipin Prasad Pant","50","78",NULL,NULL
+"771","Dhan Thapa","52","82",NULL,NULL
+"772","Manoj Bhandari","51","68",NULL,NULL
+"773","Devaki Joshi","53","52",NULL,NULL
+"774","Rajendra Prashad Bhatt","55","54",NULL,NULL
+"775","Roshan Dhami","56","42",NULL,NULL
+"776","Jayanti Bhatt","54","42",NULL,NULL
+"777","Samsher Nath","58","42",NULL,NULL
+"778","Dipak Bhatt","59","42",NULL,NULL
+"779","Kamal PD Joshi","57","50",NULL,NULL
+"780","Rahul Rana","71","54",NULL,NULL
+"781","Dil Dhami","72","66",NULL,NULL
+"782","Manoj Bhatt","69","50",NULL,NULL
+"783","dhana Bhat","70","62",NULL,NULL
+"784","Mukesh Pant","67","68",NULL,NULL
+"785","Bharat Pant","68","42",NULL,NULL
+"786","Srijana Rokaya","65","54",NULL,NULL
+"787","Hemant Kunwar","66","88",NULL,NULL
+"788","Anjali Nath","63","44",NULL,NULL
+"789","Maya Bhatt","64","58",NULL,NULL
+"790","Bina Budha","62","50",NULL,NULL
+"791","Milan Awasthi","61","58",NULL,NULL
+"792","Bhuwan Pant","22","94",NULL,NULL
+"793","Manoj Singh Mangola","23","78",NULL,NULL
+"794","Rajendra Rana","41","42",NULL,NULL
+"795","Birendra B Saud","20","52",NULL,NULL
+"796","Paras Pant","24","86",NULL,NULL
+"797","Tej Raj Pant","5","88",NULL,NULL
+"798","Mohan Raj Bhandari","13","60",NULL,NULL
+"799","Tara Prashad Roshyara","14","68",NULL,NULL
+"800","Niraj Singh Ghutal ","8","42",NULL,NULL
+"801","Janak Guru Dhami","2","42",NULL,NULL
+"802","Uma Joshi","10","48",NULL,NULL
+"803","Uma Thakur","9","56",NULL,NULL
+"804","Puja Pandey","15","46",NULL,NULL
+"805","Rabindra BDR Dhanuk","6","42",NULL,NULL
+"806","Kamal BDR Dhanuk","7","94",NULL,NULL
+"807","Dhannjaya Kunwar","1","52",NULL,NULL
+"808","Rakesh Rawat","19","74",NULL,NULL
+"809","Amir Bist","18","42",NULL,NULL
+"810","Janak Pari","21","56",NULL,NULL
+"811","Saroj Karki","12","68",NULL,NULL
+"812","Dipendra Thagunna","11","44",NULL,NULL
+"813","Ammar Bist","571","54",NULL,NULL
+"814","Naresh Singh Saud","548","62",NULL,NULL
+"815","Manoj Joshi","555","70",NULL,NULL
+"816","Priyanka Kalauni","554","68",NULL,NULL
+"817","Manju Rana","557","42",NULL,NULL
+"818","Dammar B Bohara","549","44",NULL,NULL
+"819","Rshan Bhatt","563","64",NULL,NULL
+"820","Bhaskar Joshi","550","70",NULL,NULL
+"821","Prashant Bohara","560","74",NULL,NULL
+"822","Rakesh Dhami","561","76",NULL,NULL
+"823","Akash Bhatt","562","60",NULL,NULL
+"824","Navraj Luhar","569","52",NULL,NULL
+"825","Karan Ram Luhar","570","56",NULL,NULL
+"826","Manisha Ter","558","60",NULL,NULL
+"827","Iswari Kumari Bhat","559","54",NULL,NULL
+"828","Hem Prakash Ojha","556","76",NULL,NULL
+"829","Arun Singh Kunwar ","566","84",NULL,NULL
+"830","Mahesh Mahara","552","50",NULL,NULL
+"831","Susma Dhami","604","42",NULL,NULL
+"832","Nirmala Bhatta","610","68",NULL,NULL
+"833","Sasita Khati","603","54",NULL,NULL
+"834","Nanda Chand ","605","98",NULL,NULL
+"835","Hema Bhat","518","44",NULL,NULL
+"836","Sarswati Nath","76","42",NULL,NULL
+"837","Bimala Bhatt","80","76",NULL,NULL
+"838","Shushma Sharki","78","44",NULL,NULL
+"839","Ramesh Saud ","505","68",NULL,NULL
+"840","Arjun Bhandari","608","66",NULL,NULL
+"841","Kamal Bhatt","596","50",NULL,NULL
+"842","Abhishek Bhatt","77","56",NULL,NULL
+"843","Himanshu Luhar","523","42",NULL,NULL
+"844","Roshan Kami","522","42",NULL,NULL
+"845","Ashok Mangal","565","84",NULL,NULL
+"846","Narajan Bhatt","616","54",NULL,NULL
+"847","Prakash Nath","516","74",NULL,NULL
+"848","Nabin Bohara","511","74",NULL,NULL
+"849","Hemant Raj Pant ","509","50",NULL,NULL
+"850","Yogendra Bohara ","503","56",NULL,NULL
+"851","Saroj Bhatt","507","62",NULL,NULL
+"852","Ramesh Prashd Pathak ","506","58",NULL,NULL
+"853","Deep Raj Joshi","508","78",NULL,NULL
+"854","Sayna Dhami","512","44",NULL,NULL
+"855","Madhab Pant ","504","42",NULL,NULL
+"856","Janaki Dhami","514","62",NULL,NULL
+"857","Dinesh Bahadur Singh ","520","42",NULL,NULL
+"858","Jamuna Gurudhami","513","42",NULL,NULL
+"859","Dev Datt Bhatt","517","74",NULL,NULL
+"860","Sunil Saud ","521","60",NULL,NULL
+"861","Janak Raj Bhatt","501","92",NULL,NULL
+"862","Harish  Bhatt","502","82",NULL,NULL
+"864","Jagadish Kumar Bogati","515","54",NULL,NULL
+"865","Rhohit Joshi","602","52",NULL,NULL
+"866","Prabin Chand","81","62",NULL,NULL
+"867","Radhika Luhar","606","52",NULL,NULL
+"868","Kapil Dev Joshi","601","70",NULL,NULL
+"869","Birendra Singh ","617","66",NULL,NULL
+"870","Raj Bikram Shah ","612","42",NULL,NULL
+"871","Basanti Joshi","614","56",NULL,NULL
+"872","Kabita Ojha ","613","50",NULL,NULL
+"873","Kisan Sunar","599","64",NULL,NULL
+"874","Pradip Rokaya ","600","64",NULL,NULL
+"875","Milan Raj Chimadi","598","70",NULL,NULL
+"876","Mukesh Parki","607","56",NULL,NULL
+"877","Arjun Chand","597","42",NULL,NULL
+"878","Dipesh Bhatt","609","76",NULL,NULL
+"879","Anuska Joshi","74","74",NULL,NULL
+"880","Tanuja Bhatt","73","66",NULL,NULL
+"881","Indra Jagari","587","42",NULL,NULL
+"882","Gita Jagari","586","42",NULL,NULL
+"883","Sapana Chand","584","56",NULL,NULL
+"884","Puspa Kumari Bist","585","56",NULL,NULL
+"885","Gaurab Chand","578","64",NULL,NULL
+"886","Liladhar Awasthi","574","65",NULL,NULL
+"887","Suresh Awasthi","572","56",NULL,NULL
+"888","Naresh Bist","594","56",NULL,NULL
+"889","Anil Kumar B.K","590","72",NULL,NULL
+"890","Hemant Awasthi","573","42",NULL,NULL
+"891","Tarjan Air ","592","62",NULL,NULL
+"892","Rupak Dhant","591","44",NULL,NULL
+"893","Prakash Sharma","583","60",NULL,NULL
+"894","Suraj Mahar","580","58",NULL,NULL
+"895","Ayush Giri","75","50",NULL,NULL
+"896","Jeevan Bhatt ","577","58",NULL,NULL
+"897","Sunil B.K ","575","84",NULL,NULL
+"898","Gomati Airi","579","78",NULL,NULL
+"899","Narendra Airee","45","42",NULL,NULL
+"900","Bhagarati Joshi","3","70",NULL,NULL
+"901","Priti Saud ","4","58",NULL,NULL
+"902","Basant Rawat","32","82",NULL,NULL
+"903","Santosh Madai","36","42",NULL,NULL
+"904","Ram Singh Dhami","25","56",NULL,NULL
+"905","Shankar Chand ","43","82",NULL,NULL
+"906","Bhaskar Dev Pant ","48","76",NULL,NULL
+"907","Harish Pant","47","68",NULL,NULL
+"908","Puskar Singh Saud ","26","42",NULL,NULL
+"909","Tek Bahadur Chad","29","62",NULL,NULL
+"910","Ganesh Datt Joshi ","28","64",NULL,NULL
+"911","Ashok Sharma","31","58",NULL,NULL
+"912","Kailash Badu","30","58",NULL,NULL
+"913","Prem Raj Badu","42","62",NULL,NULL
+"914","Jayendra Singh Saud ","44","50",NULL,NULL
+"915","Lokendra Dhami","46","50",NULL,NULL
+"916","Laxmi Joshi","37","70",NULL,NULL
+"917","Sapana Sunar","35","42",NULL,NULL
+"918","Birendra Prasad Joshi","40","78",NULL,NULL
+"919","Khem Raj Joshi","38","68",NULL,NULL
+"920","Nabaraj Joshi","538","66",NULL,NULL
+"921","Rohit Singh Bhandari","530","70",NULL,NULL
+"922","Roshan Dhami","545","44",NULL,NULL
+"923","Rajendra Singh Saud ","547","42",NULL,NULL
+"924","Jiwan Saud","27","78",NULL,NULL
+"925","Dinesh Singh Saud ","540","82",NULL,NULL
+"926","Paras Bhatt","543","42",NULL,NULL
+"927","Yubraj Bohara","528","54",NULL,NULL
+"928","Dinesh Luhar","526","42",NULL,NULL
+"929","Nirmala Nath ","546","42",NULL,NULL
+"930","Renuka Dangaura","534","42",NULL,NULL
+"931","Lalita Joshi","524","52",NULL,NULL
+"932","Uddhav Malla ","532","54",NULL,NULL
+"933","Jagdish Khatri","544","54",NULL,NULL
+"934","chhatra Khadka","533","56",NULL,NULL
+"935","Janaki Mahara","531","46",NULL,NULL
+"936","Jayanti Kunwar","529","42",NULL,NULL
+"937","Janaki Joshi Paneru","527","56",NULL,NULL
+"938","Kishor Mishra","537","64",NULL,NULL
+"939","Lokendra Bohara","525","42",NULL,NULL
+"940","Birendra Saud","34","64",NULL,NULL
+"941","Karan Bist","17","52",NULL,NULL
+"942","Rajendra Prasad Paitola","39","54",NULL,NULL
