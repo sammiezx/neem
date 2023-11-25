@@ -5,6 +5,8 @@ sys.path.append(file_path)
 from utils.mysql_util import get_dataframe
 from ml.neem_train_drop_correlation import train_phase
 from ml.neem_ml_server import identify
+from datetime import datetime
+
 df = get_dataframe()
 train_phase(df)
 
@@ -17,6 +19,8 @@ train_phase(df)
 # we'll do B for now
 
 df = identify(df)
-df.to_csv(f"{file_path}/data/possible_students_to_drop.csv", index=False)
+current_date = datetime.now()
+index = current_date.strftime('%Y%m%dT%H')
+df.to_csv(f"{file_path}/data/possible_students_to_drop{index}.csv", index=False)
 
 
